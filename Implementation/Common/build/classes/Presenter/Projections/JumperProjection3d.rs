@@ -1,0 +1,4 @@
+Presenter.Projections.AmbientImageProject
+Presenter.Projections.JumperProjection3d
+Presenter.Projections.SingleImaginator
+Presenter.Projections.AmbientImageJumper

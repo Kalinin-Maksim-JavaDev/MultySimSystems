@@ -1,0 +1,3 @@
+Presenter.Projections.D2.MainAnimMenu.ImaginatorsFactorys
+Presenter.Projections.D2.MainAnimMenu.ImaginatorsFactorys$Type
+Presenter.Projections.D2.MainAnimMenu.MainMenuProjection2d
